@@ -1,0 +1,684 @@
+C:\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\appsettings.json
+C:\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\CapstoneProject_IMS.StaticWebAssets.xml
+C:\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\CapstoneProject_IMS.exe
+C:\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\CapstoneProject_IMS.deps.json
+C:\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\CapstoneProject_IMS.runtimeconfig.json
+C:\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\CapstoneProject_IMS.runtimeconfig.dev.json
+C:\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\CapstoneProject_IMS.dll
+C:\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\CapstoneProject_IMS.pdb
+C:\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\CapstoneProject_IMS.Views.dll
+C:\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\CapstoneProject_IMS.Views.pdb
+C:\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\obj\Debug\netcoreapp3.1\CapstoneProject_IMS.csprojAssemblyReference.cache
+C:\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\obj\Debug\netcoreapp3.1\CapstoneProject_IMS.AssemblyInfoInputs.cache
+C:\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\obj\Debug\netcoreapp3.1\CapstoneProject_IMS.AssemblyInfo.cs
+C:\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\obj\Debug\netcoreapp3.1\CapstoneProject_IMS.csproj.CoreCompileInputs.cache
+C:\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\obj\Debug\netcoreapp3.1\CapstoneProject_IMS.MvcApplicationPartsAssemblyInfo.cs
+C:\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\obj\Debug\netcoreapp3.1\CapstoneProject_IMS.MvcApplicationPartsAssemblyInfo.cache
+C:\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\obj\Debug\netcoreapp3.1\CapstoneProject_IMS.RazorAssemblyInfo.cache
+C:\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\obj\Debug\netcoreapp3.1\CapstoneProject_IMS.RazorAssemblyInfo.cs
+C:\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\obj\Debug\netcoreapp3.1\staticwebassets\CapstoneProject_IMS.StaticWebAssets.Manifest.cache
+C:\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\obj\Debug\netcoreapp3.1\staticwebassets\CapstoneProject_IMS.StaticWebAssets.xml
+C:\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\obj\Debug\netcoreapp3.1\scopedcss\bundle\CapstoneProject_IMS.styles.css
+C:\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\obj\Debug\netcoreapp3.1\CapstoneProject_IMS.TagHelpers.input.cache
+C:\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\obj\Debug\netcoreapp3.1\CapstoneProject_IMS.TagHelpers.output.cache
+C:\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\obj\Debug\netcoreapp3.1\CapstoneProject_IMS.RazorCoreGenerate.cache
+C:\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\obj\Debug\netcoreapp3.1\CapstoneProject_IMS.RazorTargetAssemblyInfo.cache
+C:\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\obj\Debug\netcoreapp3.1\CapstoneProject_IMS.RazorTargetAssemblyInfo.cs
+C:\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\obj\Debug\netcoreapp3.1\CapstoneProject_IMS.Views.pdb
+C:\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\obj\Debug\netcoreapp3.1\CapstoneProject_IMS.csproj.CopyComplete
+C:\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\obj\Debug\netcoreapp3.1\CapstoneProject_IMS.dll
+C:\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\obj\Debug\netcoreapp3.1\CapstoneProject_IMS.pdb
+C:\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\obj\Debug\netcoreapp3.1\CapstoneProject_IMS.genruntimeconfig.cache
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\CapstoneProject_IMS.StaticWebAssets.xml
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\appsettings.json
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\CapstoneProject_IMS.exe
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\CapstoneProject_IMS.deps.json
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\CapstoneProject_IMS.runtimeconfig.json
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\CapstoneProject_IMS.runtimeconfig.dev.json
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\CapstoneProject_IMS.dll
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\CapstoneProject_IMS.pdb
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\CapstoneProject_IMS.Views.dll
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\CapstoneProject_IMS.Views.pdb
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\obj\Debug\netcoreapp3.1\CapstoneProject_IMS.csprojAssemblyReference.cache
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\obj\Debug\netcoreapp3.1\CapstoneProject_IMS.AssemblyInfoInputs.cache
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\obj\Debug\netcoreapp3.1\CapstoneProject_IMS.AssemblyInfo.cs
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\obj\Debug\netcoreapp3.1\CapstoneProject_IMS.csproj.CoreCompileInputs.cache
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\obj\Debug\netcoreapp3.1\CapstoneProject_IMS.MvcApplicationPartsAssemblyInfo.cs
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\obj\Debug\netcoreapp3.1\CapstoneProject_IMS.MvcApplicationPartsAssemblyInfo.cache
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\obj\Debug\netcoreapp3.1\CapstoneProject_IMS.RazorAssemblyInfo.cache
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\obj\Debug\netcoreapp3.1\CapstoneProject_IMS.RazorAssemblyInfo.cs
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\obj\Debug\netcoreapp3.1\staticwebassets\CapstoneProject_IMS.StaticWebAssets.Manifest.cache
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\obj\Debug\netcoreapp3.1\staticwebassets\CapstoneProject_IMS.StaticWebAssets.xml
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\obj\Debug\netcoreapp3.1\scopedcss\bundle\CapstoneProject_IMS.styles.css
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\obj\Debug\netcoreapp3.1\CapstoneProject_IMS.TagHelpers.input.cache
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\obj\Debug\netcoreapp3.1\CapstoneProject_IMS.TagHelpers.output.cache
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\obj\Debug\netcoreapp3.1\CapstoneProject_IMS.RazorCoreGenerate.cache
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\obj\Debug\netcoreapp3.1\CapstoneProject_IMS.RazorTargetAssemblyInfo.cache
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\obj\Debug\netcoreapp3.1\CapstoneProject_IMS.RazorTargetAssemblyInfo.cs
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\obj\Debug\netcoreapp3.1\CapstoneProject_IMS.Views.pdb
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\obj\Debug\netcoreapp3.1\CapstoneProject_IMS.csproj.CopyComplete
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\obj\Debug\netcoreapp3.1\CapstoneProject_IMS.dll
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\obj\Debug\netcoreapp3.1\CapstoneProject_IMS.pdb
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\obj\Debug\netcoreapp3.1\CapstoneProject_IMS.genruntimeconfig.cache
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\obj\Debug\netcoreapp3.1\Razor\Views\Change\Create.cshtml.g.cs
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\obj\Debug\netcoreapp3.1\Razor\Views\Change\Delete.cshtml.g.cs
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\obj\Debug\netcoreapp3.1\Razor\Views\Change\Details.cshtml.g.cs
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\obj\Debug\netcoreapp3.1\Razor\Views\Change\Edit.cshtml.g.cs
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\obj\Debug\netcoreapp3.1\Razor\Views\Change\Index.cshtml.g.cs
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\CapstoneProject_IMS.StaticWebAssets.xml
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\CapstoneProject_IMS.exe
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\CapstoneProject_IMS.deps.json
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\CapstoneProject_IMS.runtimeconfig.json
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\CapstoneProject_IMS.runtimeconfig.dev.json
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\CapstoneProject_IMS.dll
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\CapstoneProject_IMS.pdb
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\CapstoneProject_IMS.Views.dll
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\CapstoneProject_IMS.Views.pdb
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\obj\Debug\netcoreapp3.1\CapstoneProject_IMS.csprojAssemblyReference.cache
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\obj\Debug\netcoreapp3.1\CapstoneProject_IMS.AssemblyInfoInputs.cache
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\obj\Debug\netcoreapp3.1\CapstoneProject_IMS.AssemblyInfo.cs
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\obj\Debug\netcoreapp3.1\CapstoneProject_IMS.csproj.CoreCompileInputs.cache
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\obj\Debug\netcoreapp3.1\CapstoneProject_IMS.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\obj\Debug\netcoreapp3.1\CapstoneProject_IMS.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\obj\Debug\netcoreapp3.1\CapstoneProject_IMS.RazorAssemblyInfo.cache
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\obj\Debug\netcoreapp3.1\CapstoneProject_IMS.RazorAssemblyInfo.cs
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\obj\Debug\netcoreapp3.1\staticwebassets\CapstoneProject_IMS.StaticWebAssets.Manifest.cache
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\obj\Debug\netcoreapp3.1\staticwebassets\CapstoneProject_IMS.StaticWebAssets.xml
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\obj\Debug\netcoreapp3.1\scopedcss\bundle\CapstoneProject_IMS.styles.css
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\obj\Debug\netcoreapp3.1\CapstoneProject_IMS.TagHelpers.input.cache
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\obj\Debug\netcoreapp3.1\CapstoneProject_IMS.TagHelpers.output.cache
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\obj\Debug\netcoreapp3.1\CapstoneProject_IMS.RazorCoreGenerate.cache
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\obj\Debug\netcoreapp3.1\Razor\Views\Change\Create.cshtml.g.cs
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\obj\Debug\netcoreapp3.1\Razor\Views\Change\Delete.cshtml.g.cs
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\obj\Debug\netcoreapp3.1\Razor\Views\Change\Details.cshtml.g.cs
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\obj\Debug\netcoreapp3.1\Razor\Views\Change\Edit.cshtml.g.cs
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\obj\Debug\netcoreapp3.1\Razor\Views\Change\Index.cshtml.g.cs
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\obj\Debug\netcoreapp3.1\CapstoneProject_IMS.RazorTargetAssemblyInfo.cache
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\obj\Debug\netcoreapp3.1\CapstoneProject_IMS.RazorTargetAssemblyInfo.cs
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\obj\Debug\netcoreapp3.1\CapstoneProject_IMS.Views.pdb
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\obj\Debug\netcoreapp3.1\CapstoneProject_IMS.csproj.CopyComplete
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\obj\Debug\netcoreapp3.1\CapstoneProject_IMS.dll
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\obj\Debug\netcoreapp3.1\CapstoneProject_IMS.pdb
+C:\Users\Rubens\OneDrive\CP\Captone Project\Code\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\obj\Debug\netcoreapp3.1\CapstoneProject_IMS.genruntimeconfig.cache
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\obj\Debug\netcoreapp3.1\Razor\Views\Incident\Create.cshtml.g.cs
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\obj\Debug\netcoreapp3.1\Razor\Views\Incident\Delete.cshtml.g.cs
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\obj\Debug\netcoreapp3.1\Razor\Views\Incident\Details.cshtml.g.cs
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\obj\Debug\netcoreapp3.1\Razor\Views\Incident\Edit.cshtml.g.cs
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\obj\Debug\netcoreapp3.1\Razor\Views\Incident\Index.cshtml.g.cs
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\obj\Debug\netcoreapp3.1\Razor\Views\IncidentAnnotation\Create.cshtml.g.cs
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\obj\Debug\netcoreapp3.1\Razor\Views\IncidentAnnotation\Delete.cshtml.g.cs
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\obj\Debug\netcoreapp3.1\Razor\Views\IncidentAnnotation\Details.cshtml.g.cs
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\obj\Debug\netcoreapp3.1\Razor\Views\IncidentAnnotation\Edit.cshtml.g.cs
+C:\CapstoneProjectGitHub\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\obj\Debug\netcoreapp3.1\Razor\Views\IncidentAnnotation\Index.cshtml.g.cs
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\appsettings.json
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.json
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.local.json
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\CapstoneProject_IMS.StaticWebAssets.xml
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\CapstoneProject_IMS.exe
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\CapstoneProject_IMS.deps.json
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\CapstoneProject_IMS.runtimeconfig.json
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\CapstoneProject_IMS.runtimeconfig.dev.json
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\CapstoneProject_IMS.dll
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\CapstoneProject_IMS.pdb
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\CapstoneProject_IMS.Views.dll
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\CapstoneProject_IMS.Views.pdb
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\obj\Debug\netcoreapp3.1\CapstoneProject_IMS.csprojAssemblyReference.cache
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\obj\Debug\netcoreapp3.1\CapstoneProject_IMS.AssemblyInfoInputs.cache
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\obj\Debug\netcoreapp3.1\CapstoneProject_IMS.AssemblyInfo.cs
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\obj\Debug\netcoreapp3.1\CapstoneProject_IMS.csproj.CoreCompileInputs.cache
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\obj\Debug\netcoreapp3.1\CapstoneProject_IMS.MvcApplicationPartsAssemblyInfo.cs
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\obj\Debug\netcoreapp3.1\CapstoneProject_IMS.MvcApplicationPartsAssemblyInfo.cache
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\obj\Debug\netcoreapp3.1\CapstoneProject_IMS.RazorAssemblyInfo.cache
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\obj\Debug\netcoreapp3.1\CapstoneProject_IMS.RazorAssemblyInfo.cs
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\obj\Debug\netcoreapp3.1\CapstoneProject_IMS.TagHelpers.input.cache
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\obj\Debug\netcoreapp3.1\CapstoneProject_IMS.TagHelpers.output.cache
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\obj\Debug\netcoreapp3.1\CapstoneProject_IMS.RazorCoreGenerate.cache
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\obj\Debug\netcoreapp3.1\Razor\Views\Change\Create.cshtml.g.cs
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\obj\Debug\netcoreapp3.1\Razor\Views\Change\Delete.cshtml.g.cs
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\obj\Debug\netcoreapp3.1\Razor\Views\Change\Details.cshtml.g.cs
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\obj\Debug\netcoreapp3.1\Razor\Views\Change\Edit.cshtml.g.cs
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\obj\Debug\netcoreapp3.1\Razor\Views\Change\Index.cshtml.g.cs
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\obj\Debug\netcoreapp3.1\Razor\Views\IncidentAnnotation\Create.cshtml.g.cs
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\obj\Debug\netcoreapp3.1\Razor\Views\IncidentAnnotation\Delete.cshtml.g.cs
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\obj\Debug\netcoreapp3.1\Razor\Views\IncidentAnnotation\Details.cshtml.g.cs
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\obj\Debug\netcoreapp3.1\Razor\Views\IncidentAnnotation\Edit.cshtml.g.cs
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\obj\Debug\netcoreapp3.1\Razor\Views\IncidentAnnotation\Index.cshtml.g.cs
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\obj\Debug\netcoreapp3.1\Razor\Views\Incident\Create.cshtml.g.cs
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\obj\Debug\netcoreapp3.1\Razor\Views\Incident\Delete.cshtml.g.cs
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\obj\Debug\netcoreapp3.1\Razor\Views\Incident\Details.cshtml.g.cs
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\obj\Debug\netcoreapp3.1\Razor\Views\Incident\Edit.cshtml.g.cs
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\obj\Debug\netcoreapp3.1\Razor\Views\Incident\Index.cshtml.g.cs
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\obj\Debug\netcoreapp3.1\CapstoneProject_IMS.RazorTargetAssemblyInfo.cache
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\obj\Debug\netcoreapp3.1\CapstoneProject_IMS.RazorTargetAssemblyInfo.cs
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\obj\Debug\netcoreapp3.1\CapstoneProject_IMS.Views.pdb
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\obj\Debug\netcoreapp3.1\CapstoneProject_IMS.csproj.CopyComplete
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\obj\Debug\netcoreapp3.1\staticwebassets\CapstoneProject_IMS.StaticWebAssets.Manifest.cache
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\obj\Debug\netcoreapp3.1\staticwebassets\CapstoneProject_IMS.StaticWebAssets.xml
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\obj\Debug\netcoreapp3.1\CapstoneProject_IMS.dll
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\obj\Debug\netcoreapp3.1\CapstoneProject_IMS.pdb
+C:\EmadFiles\CapeStoneProject\CapstoneProject\CapstoneProject_IMS\CapstoneProject_IMS\obj\Debug\netcoreapp3.1\CapstoneProject_IMS.genruntimeconfig.cache

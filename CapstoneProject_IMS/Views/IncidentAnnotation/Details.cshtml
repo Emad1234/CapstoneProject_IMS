@@ -1,0 +1,42 @@
+﻿@model CapstoneProject_IMS.Models.IncidentAnnotation
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>IncidentAnnotation</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.CreatedOn)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.CreatedOn)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.AnnotationContent)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.AnnotationContent)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.AnnotationVisible)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.AnnotationVisible)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Incident)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Incident.ExternalTicket)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.AnnotationId">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>

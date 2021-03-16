@@ -1,0 +1,84 @@
+﻿@model CapstoneProject_IMS.Models.Incident
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>Incident</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="IncidentTitle" class="control-label"></label>
+                <input asp-for="IncidentTitle" class="form-control" />
+                <span asp-validation-for="IncidentTitle" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="IncidentDescription" class="control-label"></label>
+                <input asp-for="IncidentDescription" class="form-control" />
+                <span asp-validation-for="IncidentDescription" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="IncidentStart" class="control-label"></label>
+                <input asp-for="IncidentStart" class="form-control" />
+                <span asp-validation-for="IncidentStart" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="IncidentEnd" class="control-label"></label>
+                <input asp-for="IncidentEnd" class="form-control" />
+                <span asp-validation-for="IncidentEnd" class="text-danger"></span>
+            </div>
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input class="form-check-input" asp-for="IncidentResolved" /> @Html.DisplayNameFor(model => model.IncidentResolved)
+                </label>
+            </div>
+            <div class="form-group">
+                <label asp-for="ExternalTicket" class="control-label"></label>
+                <input asp-for="ExternalTicket" class="form-control" />
+                <span asp-validation-for="ExternalTicket" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ExternalTicketUrl" class="control-label"></label>
+                <input asp-for="ExternalTicketUrl" class="form-control" />
+                <span asp-validation-for="ExternalTicketUrl" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="SeverityId" class="control-label"></label>
+                <select asp-for="SeverityId" class ="form-control" asp-items="ViewBag.SeverityId"></select>
+            </div>
+            <div class="form-group">
+                <label asp-for="LocationId" class="control-label"></label>
+                <select asp-for="LocationId" class ="form-control" asp-items="ViewBag.LocationId"></select>
+            </div>
+            <div class="form-group">
+                <label asp-for="LocationUrl" class="control-label"></label>
+                <input asp-for="LocationUrl" class="form-control" />
+                <span asp-validation-for="LocationUrl" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ManagerId" class="control-label"></label>
+                <select asp-for="ManagerId" class ="form-control" asp-items="ViewBag.ManagerId"></select>
+            </div>
+            <div class="form-group">
+                <label asp-for="TeamId" class="control-label"></label>
+                <select asp-for="TeamId" class ="form-control" asp-items="ViewBag.TeamId"></select>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

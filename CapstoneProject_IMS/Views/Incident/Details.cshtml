@@ -1,0 +1,119 @@
+﻿@model CapstoneProject_IMS.Models.Incident
+
+@{
+    ViewData["Title"] = $"Incident #{Model.IncidentId.ToString()}";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<div>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.IncidentTitle)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.IncidentTitle)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.IncidentDescription)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.IncidentDescription)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.IncidentStart)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.IncidentStart)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.IncidentEnd)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.IncidentEnd)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.IncidentResolved)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.IncidentResolved)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.ExternalTicket)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.ExternalTicket)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.ExternalTicketUrl)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.ExternalTicketUrl)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.LocationUrl)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.LocationUrl)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Location)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Location.LocationName)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Manager)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Manager.ManagerName)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Severity)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Severity.SeverityName)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Team)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Team.TeamName)
+        </dd>
+    </dl>
+</div>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+              Created On
+            </th>
+            <th>
+              Annotation Content
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.IncidentAnnotation.Where(i =>i.AnnotationVisible==true))
+        {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.CreatedOn)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.AnnotationContent)
+            </td>
+            <td>
+                <a asp-controller="IncidentAnnotation" asp-action="Edit" asp-route-id="@item.AnnotationId">Edit Annotation</a>
+            </td>
+        </tr>
+        }
+    </tbody>
+</table>
+
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.IncidentId">Edit Incident</a> |
+    <a asp-controller="IncidentAnnotation" asp-action="Create" asp-route-id="@Model.IncidentId">Add Annotation</a> |
+    <a asp-action="Index">Back to List</a>
+</div>

@@ -1,0 +1,101 @@
+﻿@model IEnumerable<CapstoneProject_IMS.Models.Incident>
+
+@{
+    ViewData["Title"] = "UnResolved Incidents";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<p>
+    <a asp-action="Create">Create New Incident</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.IncidentTitle)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.IncidentDescription)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.IncidentStart)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.IncidentEnd)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.IncidentResolved)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ExternalTicket)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ExternalTicketUrl)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.LocationUrl)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Location)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Manager)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Severity)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Team)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.IncidentTitle)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IncidentDescription)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IncidentStart)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IncidentEnd)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IncidentResolved)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ExternalTicket)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ExternalTicketUrl)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.LocationUrl)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Location.LocationName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Manager.ManagerName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Severity.SeverityName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Team.TeamName)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.IncidentId">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.IncidentId">Details</a>
+                <!--<a asp-action="Delete" asp-route-id="@item.IncidentId">Delete</a>-->
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
